@@ -1,4 +1,7 @@
 {
-	"display": "fullscreen",
-	"display": "standalone"
+	"name": "36 Questions",
+	"short_name": "36 Questions",
+	"description": " ",
+	"display": "standalone",
+	"start_url": "index.html"
 }
